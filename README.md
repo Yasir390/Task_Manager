@@ -1,16 +1,7 @@
 # taskmanager
 
-A new Flutter project.
+I developed a task management app with secure user authentication, OTP-based password recovery, and versatile task management features. The app integrates REST APIs to efficiently manage tasks across different statuses (new, in progress, completed, canceled), with options for task editing and deletion. The user interface is designed to be intuitive and visually appealing, enhancing the overall user experience.
 
-## Getting Started
+## Output
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![task manager app output](https://github.com/user-attachments/assets/b9ab01a5-8c2f-43ce-a5da-fcfa223394c0)
